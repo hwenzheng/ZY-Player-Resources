@@ -302,7 +302,7 @@
         "api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 39,
@@ -311,7 +311,7 @@
         "api": "http://cj.xhgcjym.com/inc/api.php",
         "download": "http://cj.xhgcjym.com/inc/apidown.php",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 40,
@@ -320,7 +320,7 @@
         "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 41,
@@ -329,7 +329,7 @@
         "api": "http://api.rereapi.com/inc/api.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 42,
@@ -338,7 +338,7 @@
         "api": "http://wmcj8.com/inc/sapi.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 43,
@@ -347,7 +347,7 @@
         "api": "http://api.11bat.com/mac10.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 44,
@@ -356,7 +356,7 @@
         "api": "https://dadiapi.com/api.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 45,
@@ -365,7 +365,7 @@
         "api": "https://www.xxohub3.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 46,
@@ -374,7 +374,7 @@
         "api": "http://api.iixxzyapi.com/inc/api.php",
         "download": "http://api.iixxzyapi.com/inc/apidown.php",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 47,
@@ -383,7 +383,7 @@
         "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 48,
@@ -392,7 +392,7 @@
         "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 49,
@@ -401,7 +401,7 @@
         "api": "http://api.cj644.com/inc/zyapimac.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 50,
@@ -410,7 +410,7 @@
         "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 51,
@@ -419,7 +419,7 @@
         "api": "http://m.7777688.com/inc/api.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 52,
@@ -428,7 +428,7 @@
         "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 53,
@@ -437,7 +437,7 @@
         "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 54,
@@ -446,7 +446,7 @@
         "api": "http://cj.1234567bt.com/inc/ldg_sea.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 55,
@@ -455,7 +455,7 @@
         "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 56,
@@ -464,7 +464,7 @@
         "api": "https://www.77zyw.xyz/inc/api.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 57,
@@ -473,7 +473,7 @@
         "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 58,
@@ -482,7 +482,7 @@
         "api": "ttp://cj.35zycj.com/inc/zyapimac.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 59,
@@ -491,7 +491,7 @@
         "api": "http://m.7777688.com/inc/api.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "id": 60,
@@ -500,7 +500,7 @@
         "api": "https://www.77zyw.xyz/inc/seacmsapi.php",
         "download": "",
         "isActive": 1
-        "group": "福利"
+        "group": "福利",
     },
     {
         "key": "mbo",
@@ -510,7 +510,7 @@
         "download": "",
         "group": "默认",
         "isActive": 1,
-        "status": "可用"
+        "status": "可用",
     },
     {
         "id": 62,
@@ -520,7 +520,7 @@
         "download": "",
         "group": "默认",
         "isActive": true,
-        "status": "可用"
+        "status": "可用",
     },
     {
         "key": "腾讯视频资源",
